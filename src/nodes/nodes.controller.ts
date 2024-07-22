@@ -2,8 +2,6 @@ import {
   Controller,
   Post,
   Put,
-  Res,
-  HttpStatus,
   Body,
   Delete,
   Get,

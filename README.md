@@ -53,8 +53,7 @@ Y para ver los logs de los contenedores:
 docker-compose logs
 ```
 
-Acceso a la Aplicación
-Tu aplicación estará disponible en http://localhost:3000.
+El acceso a la aplicación estará disponible en http://localhost:3000.
 
 Estructura del Proyecto
 
